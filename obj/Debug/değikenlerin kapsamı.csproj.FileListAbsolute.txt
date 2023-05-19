@@ -1,0 +1,11 @@
+C:\Users\eda öncel\Desktop\değikenlerin kapsamı\bin\Debug\değikenlerin kapsamı.exe.config
+C:\Users\eda öncel\Desktop\değikenlerin kapsamı\bin\Debug\değikenlerin kapsamı.exe
+C:\Users\eda öncel\Desktop\değikenlerin kapsamı\bin\Debug\değikenlerin kapsamı.pdb
+C:\Users\eda öncel\Desktop\değikenlerin kapsamı\obj\Debug\değikenlerin kapsamı.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\değikenlerin kapsamı\obj\Debug\değikenlerin kapsamı.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\değikenlerin kapsamı\obj\Debug\değikenlerin_kapsamı.Form1.resources
+C:\Users\eda öncel\Desktop\değikenlerin kapsamı\obj\Debug\değikenlerin_kapsamı.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\değikenlerin kapsamı\obj\Debug\değikenlerin kapsamı.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\değikenlerin kapsamı\obj\Debug\değikenlerin kapsamı.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\değikenlerin kapsamı\obj\Debug\değikenlerin kapsamı.exe
+C:\Users\eda öncel\Desktop\değikenlerin kapsamı\obj\Debug\değikenlerin kapsamı.pdb
